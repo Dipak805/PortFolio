@@ -83,7 +83,7 @@ export default function Home() {
               <span className="w-3 h-3 rounded-full bg-green-500/70" />
             </div>
             <div><span className="text-violet-400">const</span> <span className="text-blue-300">dev</span> = {'{'}</div>
-            <div className="pl-4"><span className="text-green-300">name</span>: <span className="text-amber-300">"Your Name"</span>,</div>
+            <div className="pl-4"><span className="text-green-300">name</span>: <span className="text-amber-300">"Dipak Gund"</span>,</div>
             <div className="pl-4"><span className="text-green-300">role</span>: <span className="text-amber-300">"CS Student"</span>,</div>
             <div className="pl-4"><span className="text-green-300">skills</span>: [</div>
             <div className="pl-8 text-cyan-300">"React", "Python",</div>

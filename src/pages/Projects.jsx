@@ -7,10 +7,10 @@ import React from 'react'
    ════════════════════════════════════════════ */
 const PROJECTS = [
   {
-    title:    'Project One',
-    desc:     'Write a short description of your first project here. Explain what it does, why you built it, and what problem it solves.',
-    tags:     ['React', 'Node.js', 'MongoDB'],
-    github:   'https://github.com/YOUR_USERNAME/project-one',
+    title:    'Portfolio Website',
+    desc:     'A modern, dark-themed portfolio website with aurora animations and smooth glassmorphism UI.',
+    tags:     ['React', 'Vite', 'Tailwind'],
+    github:   'https://github.com/Dipak805/project-one',
     gradient: 'from-violet-500 to-blue-600',
     icon:     'fa-solid fa-code',
     number:   '01',
@@ -19,7 +19,7 @@ const PROJECTS = [
     title:    'Project Two',
     desc:     'Write a short description of your second project here. Explain what it does, why you built it, and what problem it solves.',
     tags:     ['Python', 'Flask', 'MySQL'],
-    github:   'https://github.com/YOUR_USERNAME/project-two',
+    github:   'https://github.com/Dipak805/project-two',
     gradient: 'from-blue-500 to-cyan-500',
     icon:     'fa-solid fa-robot',
     number:   '02',
@@ -28,7 +28,7 @@ const PROJECTS = [
     title:    'Project Three',
     desc:     'Write a short description of your third project here. Explain what it does, why you built it, and what problem it solves.',
     tags:     ['HTML', 'CSS', 'JavaScript'],
-    github:   'https://github.com/YOUR_USERNAME/project-three',
+    github:   'https://github.com/Dipak805/project-three',
     gradient: 'from-cyan-500 to-emerald-500',
     icon:     'fa-solid fa-globe',
     number:   '03',
@@ -37,7 +37,7 @@ const PROJECTS = [
     title:    'Project Four',
     desc:     'Add a fourth project if you have one. Describe what makes it interesting and what technologies powered it.',
     tags:     ['TypeScript', 'Express', 'Redis'],
-    github:   'https://github.com/YOUR_USERNAME/project-four',
+    github:   'https://github.com/Dipak805/project-four',
     gradient: 'from-emerald-400 to-teal-600',
     icon:     'fa-solid fa-layer-group',
     number:   '04',
@@ -156,7 +156,7 @@ export default function Projects() {
             <p className="text-white/40 text-xs mb-2 uppercase tracking-widest font-semibold">Want to see more?</p>
             <p className="text-white/70 text-lg mb-6">All my projects live on GitHub — come take a look!</p>
             <a
-              href="https://github.com/YOUR_USERNAME"
+              href="https://github.com/Dipak805"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-3 px-8 py-4 rounded-full bg-violet-600 hover:bg-violet-500 text-white font-bold text-base transition-all duration-300 hover:scale-105 hover:shadow-lg hover:shadow-violet-500/30"

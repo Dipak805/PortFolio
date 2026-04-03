@@ -114,7 +114,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-semibold text-sm text-white">GitHub</p>
-                  <p className="text-white/40 text-xs">@YOUR_USERNAME</p>
+                  <p className="text-white/40 text-xs">@Dipak805</p>
                 </div>
                 <i className="fa-solid fa-arrow-right ml-auto text-white/30 group-hover:text-violet-400 transition-colors" />
               </a>
@@ -126,7 +126,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="font-semibold text-sm text-white">LinkedIn</p>
-                  <p className="text-white/40 text-xs">in/YOUR_USERNAME</p>
+                  <p className="text-white/40 text-xs">in/dipak-gund-90321a2a3</p>
                 </div>
                 <i className="fa-solid fa-arrow-right ml-auto text-white/30 group-hover:text-blue-400 transition-colors" />
               </a>
